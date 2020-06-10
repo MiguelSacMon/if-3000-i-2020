@@ -1,0 +1,2 @@
+Roja|Verde
+Azul|Roja
